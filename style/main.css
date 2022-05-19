@@ -1,0 +1,142 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.navbar .navbar-brand img {
+  width: 40px;
+}
+
+.navbar .collapse .navbar-nav a:hover {
+  color: #00b5ec;
+}
+
+.hero {
+  background-color: #8ae3fe;
+}
+
+.hero h2 {
+  font-weight: 900;
+  font-size: 38px;
+  text-transform: uppercase;
+}
+
+.hero .btn-costum {
+  background-color: white;
+  font-weight: bold;
+}
+
+.hero .btn-costum:hover {
+  background-color: #00b5ec;
+  color: white;
+}
+
+.about .about-text h3 {
+  font-size: 38px;
+  font-weight: 700;
+}
+
+.about .about-text p {
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.choose-us {
+  background-color: #fafafa;
+}
+
+.choose-us h3 {
+  font-size: 38px;
+  font-weight: 700;
+}
+
+.choose-us img {
+  width: 85px;
+}
+
+.choose-us h5 {
+  font-size: 17px;
+  font-weight: 700;
+}
+
+.choose-us p {
+  font-size: 15px;
+}
+
+.service h3 {
+  font-size: 38px;
+  font-weight: 700;
+}
+
+.service ul {
+  line-height: 35px;
+}
+
+.service ul li {
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.facilities {
+  background-color: #fafafa;
+}
+
+.facilities h3 {
+  font-size: 38px;
+  font-weight: 700;
+}
+
+.facilities h5 {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.facilities p {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.facilities .hserv {
+  background-color: #8ae3fe;
+}
+
+.footer {
+  background-color: #232323;
+  color: #ffff;
+}
+
+.footer .navbar-brand img {
+  width: 60px;
+  margin-bottom: 20px;
+}
+
+.footer h5 {
+  font-size: 18px;
+  margin-bottom: 12px;
+}
+
+.footer p {
+  font-size: 14px;
+}
+
+.footer .other ul li a {
+  color: #ffff;
+  font-size: 14px;
+}
+
+.footer .other ul li a:hover {
+  color: #8ae3fe;
+}
+
+.footer .location ul li {
+  font-size: 14px;
+}
+
+.schedule h5 {
+  font-size: 18px;
+  margin-bottom: 12px;
+}
+
+.schedule p {
+  font-size: 14px;
+}
+/*# sourceMappingURL=main.css.map */
